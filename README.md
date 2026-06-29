@@ -2,21 +2,9 @@
 
 ### Data & Analytics Leader · 20+ years turning enterprise data into decisions
 
-I spent two decades building and leading the analytics function for a multi-billion-dollar business, then went back to first principles to build modern data and AI systems end to end. I design the whole stack — ingestion and warehousing through retrieval-augmented and agentic LLM applications — with a bias toward evaluation, observability, and systems that hold up in production.
+I bridge business strategy and hands-on engineering — two decades leading enterprise analytics, now building the modern data and AI stack end to end, from ELT pipelines to retrieval-augmented and agentic systems made to hold up in production.
 
-Manhattan Beach, CA · Open to senior / lead roles in analytics, RevOps, and AI engineering · kennedymatt@hotmail.com
-
----
-
-## About Me
-
-For 13+ years I led Data Analytics at **Skechers**, growing the function from 2 analysts to a team of 10 and reporting directly to the SVP of Sales for 11 years as a trusted, on-call analytics resource for the CFO and President. I built the flagship BI dashboard that became the corporate Sales standard and designed **"Position,"** a custom forecasting KPI that became the primary sales metric for a ~$2B business.
-
-Since 2022 I've been building from first principles across data engineering and AI — shipping ELT pipelines, RAG systems, and agent architectures, and authoring a 400+ page field manual on production AI from foundations through deployment.
-
-- **Currently building:** retrieval systems, LLM evaluation harnesses, and agentic workflows — local-first on Apple Silicon
-- **Strengths:** sales / RevOps analytics, executive reporting, semantic-layer & KPI design, RAG and evals
-- **How I work:** reproducible pipelines, evals before scale, clear translation from business question to working system
+Manhattan Beach, CA · Open to senior / lead roles in analytics, RevOps, and AI engineering
 
 ---
 
