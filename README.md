@@ -1,5 +1,5 @@
-### Data & Analytics Leader
-## 20+ years building the reporting, forecasting, and decision tools that help a business grow
+# Data & Analytics Leader
+**20+ years building the reporting, forecasting, and decision tools that help businesses grow**
 
 Bridging leadership, business strategy, and hands-on engineering — building the modern data and AI stack end to end, from ELT pipelines to retrieval-augmented and agentic systems.
 
@@ -15,15 +15,15 @@ The full **Soapy** project suite — an end-to-end exploration from data enginee
 
 ### [Soapy Records](https://github.com/BuffaloHat/soapy-records-public)
 Vinyl-collection visualization platform. End-to-end ELT: Python ingestion from the Discogs API → Parquet landing zone → dbt-core transformations on DuckDB (staging → intermediate → fact/dim marts), productionized with Prefect orchestration, PostgreSQL materialization, and containerized Metabase dashboards.
-**Tools: Python · dbt · DuckDB · Prefect · PostgreSQL · Metabase**
+**Python · dbt · DuckDB · Prefect · PostgreSQL · Metabase**
 
 ### [Soapy GrooveGraph](https://github.com/BuffaloHat/soapy-groovegraph-public)
 AI music-discovery tool over a ~10,000-track personal library. Dual-retrieval architecture pairing Essentia audio-feature vectors in Qdrant for acoustic similarity with natural-language RAG, served on Ollama (Gemma 27b) + Nomic embeddings, with a Streamlit interface for query, similarity search, and feature inspection.
-**Tools: Qdrant · Essentia · Ollama · RAG · Streamlit**
+**Qdrant · Essentia · Ollama · RAG · Streamlit**
 
 ### [Soapy RAGlab](https://github.com/BuffaloHat/soapy-raglab-public)
 RAG research lab benchmarking four retrieval patterns — naïve vector, hybrid + reranking, GraphRAG, and an agent-maintained LLM wiki — against a curated 480+ article corpus with a rubric-scored evaluation harness. Pure Python with Qdrant, Neo4j, BM25, and cross-encoder reranking, governed by a Claude Code harness layer.
-**Tools: GraphRAG · Neo4j · BM25 · Evals · Claude Code Harness**
+**GraphRAG · Neo4j · BM25 · Evals · Claude Code Harness**
 
 ### [Soapy AI Field Manual](https://github.com/BuffaloHat/soapy-ai-field-manual-search)
 A 400+ page applied AI/LLM engineering reference for building production systems end to end — six parts spanning transformer mechanics, baseline & deployment decisions, RAG architecture, prompt & context engineering, harness design, agent memory & architectures, and evaluation / security / deployment ops.
