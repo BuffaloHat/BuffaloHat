@@ -1,8 +1,6 @@
-### Data & Analytics Leader · 20+ years turning enterprise data into decisions
+### Data & Analytics Leader · 20+ years building the reporting, forecasting, and decision tools that help a business grow
 
-I bridge business strategy and hands-on engineering — two decades leading enterprise analytics, now building the modern data and AI stack end to end, from ELT pipelines to retrieval-augmented and agentic systems made to hold up in production.
-
-Open to senior / lead roles in analytics, RevOps, and AI engineering
+Bridging leadership, business strategy, and hands-on engineering — building the modern data and AI stack end to end, from ELT pipelines to retrieval-augmented and agentic systems.
 
 ---
 
@@ -16,7 +14,7 @@ The full **Soapy** suite — an end-to-end exploration from data engineering thr
 
 ### [Soapy Records](https://github.com/BuffaloHat/soapy-records-public)
 Vinyl-collection visualization platform. End-to-end ELT: Python ingestion from the Discogs API → Parquet landing zone → dbt-core transformations on DuckDB (staging → intermediate → fact/dim marts), productionized with Prefect orchestration, PostgreSQL materialization, and containerized Metabase dashboards.
-`Python` `dbt` `DuckDB` `Prefect` `PostgreSQL` `Metabase`
+**Python · dbt · DuckDB · Prefect · PostgreSQL · Metabase**
 
 ### [Soapy GrooveGraph](https://github.com/BuffaloHat/soapy-groovegraph-public)
 AI music-discovery tool over a ~10,000-track personal library. Dual-retrieval architecture pairing Essentia audio-feature vectors in Qdrant for acoustic similarity with natural-language RAG, served on Ollama (Gemma 27b) + Nomic embeddings, with a Streamlit interface for query, similarity search, and feature inspection.
