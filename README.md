@@ -6,6 +6,10 @@ Open to senior / lead roles in analytics, RevOps, and AI engineering
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## Skills & Tools
 
 **Data Engineering & Analytics**
@@ -23,7 +27,8 @@ Qdrant · Pinecone · Chroma · Neo4j · BM25 · Cross-Encoder Reranking · Olla
 **Frameworks & Tooling**
 LangChain · LangGraph · LangSmith · Streamlit · Claude Code · Docker · Pandoc
 
----
+</td>
+<td width="50%" valign="top">
 
 ## Featured Projects
 
@@ -44,3 +49,7 @@ RAG research lab benchmarking four retrieval patterns — naïve vector, hybrid 
 ### [Soapy AI Field Manual](https://github.com/BuffaloHat/soapy-ai-field-manual-search)
 A 400+ page applied AI/LLM engineering reference for building production systems end to end — six parts spanning transformer mechanics, baseline & deployment decisions, RAG architecture, prompt & context engineering, harness design, agent memory & architectures, and evaluation / security / deployment ops.
 `LLM Engineering` `RAG` `Agents` `Evals` `Production`
+
+</td>
+</tr>
+</table>
