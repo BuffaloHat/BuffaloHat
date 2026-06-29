@@ -42,7 +42,7 @@ MicroStrategy · Tableau · Metabase · BusinessObjects · Power BI · Alteryx
 RAG · Hybrid RAG · GraphRAG · Agents · Multi-Agent Workflows · Prompt & Context Engineering · Rubric-Scored Evals
 
 **Retrieval, Vectors & Models**
-Qdrant · Pinecone · Chroma · Neo4j · BM25 · Cross-Encoder Reranking · Ollama · Nomic / Essentia embeddings
+Qdrant · Pinecone · Chroma · Neo4j · BM25 · Cross-Encoder Reranking · Ollama · Nomic embeddings · Essentia audio features
 
 **Frameworks & Tooling**
 LangChain · LangGraph · LangSmith · Streamlit · Claude Code · Docker · Pandoc
