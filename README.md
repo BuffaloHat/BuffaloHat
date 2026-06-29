@@ -1,10 +1,8 @@
-# Matthew Kennedy
-
 ### Data & Analytics Leader · 20+ years turning enterprise data into decisions
 
 I bridge business strategy and hands-on engineering — two decades leading enterprise analytics, now building the modern data and AI stack end to end, from ELT pipelines to retrieval-augmented and agentic systems made to hold up in production.
 
-Manhattan Beach, CA · Open to senior / lead roles in analytics, RevOps, and AI engineering
+Open to senior / lead roles in analytics, RevOps, and AI engineering
 
 ---
 
