@@ -1,7 +1,7 @@
 # Data & Analytics Leader
 **20+ years building the reporting, forecasting, and decision tools that help businesses grow**
 
-Bridging leadership, business strategy, and hands-on engineering — building the modern data and AI stack end to end, from ELT pipelines to retrieval-augmented and agentic systems.
+Bridging leadership, business strategy, and hands-on engineering — showcased on this page through the **Soapy** project suite, an end-to-end exploration from data engineering through applied LLM systems.
 
 ---
 
@@ -9,9 +9,7 @@ Bridging leadership, business strategy, and hands-on engineering — building th
 <tr>
 <td width="60%" valign="top">
 
-## Featured Projects
-
-The full **Soapy** project suite — an end-to-end exploration from data engineering through applied LLM systems.
+## Featured GitHub Projects
 
 ### [Soapy Records](https://github.com/BuffaloHat/soapy-records-public)
 Vinyl-collection visualization platform. End-to-end ELT: Python ingestion from the Discogs API → Parquet landing zone → dbt-core transformations on DuckDB (staging → intermediate → fact/dim marts), productionized with Prefect orchestration, PostgreSQL materialization, and containerized Metabase dashboards.
