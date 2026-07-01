@@ -1,7 +1,7 @@
 # Data & Analytics Leader
 **20+ years building the reporting, forecasting, and decision tools that help businesses grow**
 
-Bridging leadership, business strategy, and hands-on engineering — showcased on this page through the **Soapy** project suite, an end-to-end exploration from data engineering through applied LLM systems.
+Bridging leadership, business strategy, and hands-on engineering — demonstrated here through the **Soapy** project suite, an end-to-end exploration of data engineering and applied LLM systems.
 
 ---
 
