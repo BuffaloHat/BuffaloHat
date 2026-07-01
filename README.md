@@ -32,19 +32,19 @@ A 400+ page applied AI/LLM engineering reference for building production systems
 
 ## Skills & Tools
 
-**Data Engineering & Analytics**
+**Data Engineering & Analytics:**
 Python · SQL · dbt · Jupyter · Prefect · DuckDB · PostgreSQL · Snowflake · Databricks · AWS · SAS · Git
 
-**BI & Visualization**
+**BI & Visualization:**
 MicroStrategy · Tableau · Metabase · BusinessObjects · Power BI · Alteryx
 
-**AI / LLM Systems**
+**AI / LLM Systems:**
 RAG · Hybrid RAG · GraphRAG · Agents · Multi-Agent Workflows · Prompt & Context Engineering · Rubric-Scored Evals
 
-**Retrieval, Vectors & Models**
+**Retrieval, Vectors & Models:**
 Qdrant · Pinecone · Chroma · Neo4j · BM25 · Cross-Encoder Reranking · Ollama · Nomic embeddings · Essentia audio features
 
-**Frameworks & Tooling**
+**Frameworks & Tooling:**
 LangChain · LangGraph · LangSmith · Streamlit · Claude Code · Docker · Pandoc
 
 </td>
