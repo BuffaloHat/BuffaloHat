@@ -49,7 +49,7 @@ RAG · Hybrid RAG · GraphRAG · Agents · Multi-Agent Workflows · Prompt & Con
 Qdrant · Pinecone · Chroma · Neo4j · BM25 · Cross-Encoder Reranking · Ollama · Nomic embeddings · Essentia audio features
 
 **Frameworks & Tooling:**
-LangChain · LangGraph · LangSmith · Streamlit · Claude Code · Docker · Git · Arize Phoenix · Langfuse · OpenTelemetry
+LangChain · LangGraph · LangSmith · Streamlit · Claude Code · Docker · Git · Arize Phoenix · Langfuse · OpenTelemetry · OpenInference
 
 </td>
 </tr>
